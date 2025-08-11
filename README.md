@@ -64,15 +64,14 @@ The predictive analysis approach demonstrated in this task is widely applicable 
 
 4. Healthcare – predicting disease outcomes or hospital readmission rates.
 
+5. Marketing – forecasting campaign success and lead conversion probability.
+
+This task showcases how machine learning can be applied to structured datasets to make data-driven predictions, ultimately supporting decision-making and improving business performance.
+
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4793c984-26d9-4146-8e1e-06b53d5aa903" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/258c99cb-344b-4787-85f7-525a6eb6bdfb" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d61139b9-29a5-491b-a4d6-e021647e8faa" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/37ec0454-d1ae-4b6b-b28c-9d8fd9e8a969" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3b826d50-47c2-40d4-abf8-edcc1f922dfe" />
-   
 
-6. Marketing – forecasting campaign success and lead conversion probability.
 
-This task showcases how machine learning can be applied to structured datasets to make data-driven predictions, ultimately supporting decision-making and improving business performance.
-
-This task showcases how machine learning can be applied to structured datasets to make data-driven predictions, ultimately supporting decision-making and improving business performance.
