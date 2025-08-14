@@ -70,6 +70,12 @@ This task showcases how machine learning can be applied to structured datasets t
 
 #Output
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/26700531-a8d6-463e-a8f6-16cf940728f0" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c3af7604-fb76-4c4d-813a-12dd882cfa15" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/70805d65-b483-48d7-bbe3-31fc91bd2996" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/681cfd62-6eda-41ec-88cf-d5fb4ace3377" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8dd4a19e-1c57-4ad2-b85b-bb1c67a3aab8" />
+
 
 
 
